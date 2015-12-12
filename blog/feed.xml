@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 12 Dec 2015 02:27:45 -0300</pubDate>
-    <lastBuildDate>Sat, 12 Dec 2015 02:27:45 -0300</lastBuildDate>
+    <title>Andrés Gottlieb</title>
+    <description></description>
+    <link>http://andres.xyz/blog/</link>
+    <atom:link href="http://andres.xyz/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 12 Dec 2015 02:36:55 -0300</pubDate>
+    <lastBuildDate>Sat, 12 Dec 2015 02:36:55 -0300</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -28,8 +27,8 @@
 
 </description>
         <pubDate>Sat, 12 Dec 2015 02:27:11 -0300</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/12/12/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/12/12/welcome-to-jekyll.html</guid>
+        <link>http://andres.xyz/blog/jekyll/update/2015/12/12/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://andres.xyz/blog/jekyll/update/2015/12/12/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
